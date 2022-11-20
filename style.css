@@ -1,0 +1,43 @@
+/* defaul */
+.container{
+    margin-bottom: 100px;
+}
+
+/* banner section */
+.bg-colorx{
+    background-color:  #fceae9;
+}
+.buy-now{
+    background-image: linear-gradient(to bottom, #ff91bb 0%, #ff136f 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.pricing{
+    color: #ff136f;
+}
+
+
+/* catagoris section */
+.cat1{
+    background-image: linear-gradient(to left, #ff91bb 0%, #ff136f 100%);
+    border-radius: 9px;
+    margin-bottom: 20px;
+}
+.cat2{
+    background-image: linear-gradient(to left, #9193ff 0%, #2f13ff 100%);
+    border-radius: 9px;
+    margin-bottom: 20px;
+    
+}
+.cat3{
+    background-image: linear-gradient(to left, #ffde91 0%, #ffb813 100%);
+    border-radius: 9px;
+    margin-bottom: 20px;
+    
+}
+footer{
+    text-align: center;
+    
+}
